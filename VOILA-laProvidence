@@ -1,0 +1,161 @@
+<td>
+														<select name="tlf.color0" onchange="changeColor(0,this);">
+															<option>Aucun</option>
+															<option>Auteur d'exemple</option>
+															<option>Code grammatical</option>
+															<option>Construction</option>
+															<option>Crochets</option>
+															<option>Date d'exemple</option>
+															<option>Définition</option>
+															<option>Domaine technique</option>
+															<option>Entrée</option>
+															<option>Exemple</option>
+															<option>Indicateur</option>
+															<option>Mot vedette</option>
+															<option>Plan de l'article</option>
+															<option>Publication</option>
+															<option>Source</option>
+															<option>Synonyme/antonyme</option>
+															<option>Syntagme</option>
+															<option>Titre d'exemple</option>
+														</select>		
+													</td>											
+												</tr>
+																							<tr>
+													<td class="tlf_color1"></td>
+													<td>&nbsp;</td>
+													<td>
+														<select name="tlf.color1" onchange="changeColor(1,this);">
+															<option>Aucun</option>
+															<option>Auteur d'exemple</option>
+															<option>Code grammatical</option>
+															<option>Construction</option>
+															<option>Crochets</option>
+															<option>Date d'exemple</option>
+															<option>Définition</option>
+															<option>Domaine technique</option>
+															<option>Entrée</option>
+															<option>Exemple</option>
+															<option>Indicateur</option>
+															<option>Mot vedette</option>
+															<option>Plan de l'article</option>
+															<option>Publication</option>
+															<option>Source</option>
+															<option>Synonyme/antonyme</option>
+															<option>Syntagme</option>
+															<option>Titre d'exemple</option>
+														</select>		
+													</td>											
+												</tr>
+																							<tr>
+													<td class="tlf_color2"></td>
+													<td>&nbsp;</td>
+													<td>
+														<select name="tlf.color2" onchange="changeColor(2,this);">
+															<option>Aucun</option>
+															<option>Auteur d'exemple</option>
+															<option>Code grammatical</option>
+															<option>Construction</option>
+															<option>Crochets</option>
+															<option>Date d'exemple</option>
+															<option>Définition</option>
+															<option>Domaine technique</option>
+															<option>Entrée</option>
+															<option>Exemple</option>
+															<option>Indicateur</option>
+															<option>Mot vedette</option>
+															<option>Plan de l'article</option>
+															<option>Publication</option>
+															<option>Source</option>
+															<option>Synonyme/antonyme</option>
+															<option>Syntagme</option>
+															<option>Titre d'exemple</option>
+														</select>		
+													</td>											
+												</tr>
+																							<tr>
+													<td class="tlf_color3"></td>
+													<td>&nbsp;</td>
+													<td>
+														<select name="tlf.color3" onchange="changeColor(3,this);">
+															<option>Aucun</option>
+															<option>Auteur d'exemple</option>
+															<option>Code grammatical</option>
+															<option>Construction</option>
+															<option>Crochets</option>
+															<option>Date d'exemple</option>
+															<option>Définition</option>
+															<option>Domaine technique</option>
+															<option>Entrée</option>
+															<option>Exemple</option>
+															<option>Indicateur</option>
+															<option>Mot vedette</option>
+															<option>Plan de l'article</option>
+															<option>Publication</option>
+															<option>Source</option>
+															<option>Synonyme/antonyme</option>
+															<option>Syntagme</option>
+															<option>Titre d'exemple</option>
+														</select>		
+													</td>											
+												</tr>
+																							<tr>
+													<td class="tlf_color4"></td>
+													<td>&nbsp;</td>
+													<td>
+														<select name="tlf.color4" onchange="changeColor(4,this);">
+															<option>Aucun</option>
+															<option>Auteur d'exemple</option>
+															<option>Code grammatical</option>
+															<option>Construction</option>
+															<option>Crochets</option>
+															<option>Date d'exemple</option>
+															<option>Définition</option>
+															<option>Domaine technique</option>
+															<option>Entrée</option>
+															<option>Exemple</option>
+															<option>Indicateur</option>
+															<option>Mot vedette</option>
+															<option>Plan de l'article</option>
+															<option>Publication</option>
+															<option>Source</option>
+															<option>Synonyme/antonyme</option>
+															<option>Syntagme</option>
+															<option>Titre d'exemple</option>
+														</select>		
+													</td>											
+												</tr>
+																							<tr>
+													<td class="tlf_color5"></td>
+													<td>&nbsp;</td>
+													<td>
+														<select name="tlf.color5" onchange="changeColor(5,this);">
+															<option>Aucun</option>
+															<option>Auteur d'exemple</option>
+															<option>Code grammatical</option>
+															<option>Construction</option>
+															<option>Crochets</option>
+															<option>Date d'exemple</option>
+															<option>Définition</option>
+															<option>Domaine technique</option>
+															<option>Entrée</option>
+															<option>Exemple</option>
+															<option>Indicateur</option>
+															<option>Mot vedette</option>
+															<option>Plan de l'article</option>
+															<option>Publication</option>
+															<option>Source</option>
+															<option>Synonyme/antonyme</option>
+															<option>Syntagme</option>
+															<option>Titre d'exemple</option>
+														</select>		
+													</td>											
+												</tr>
+																						</table>
+										</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+					</table>
+					<input type="submit" value="Fermer" onclick="return hideOptionBox();"/>
